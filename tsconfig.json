@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "rootDir": "./src",
+        "target": "ES5",
+        "lib": ["ES5", "DOM"]
+    }
+}

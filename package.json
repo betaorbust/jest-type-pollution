@@ -1,0 +1,16 @@
+{
+  "name": "jest-types-global-upversion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@jest/types": "^29.3.1",
+    "typescript": "4.8.4"
+  }
+}
